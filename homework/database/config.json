@@ -1,0 +1,12 @@
+{
+  "is_annotation": true,
+  "database_root": "./database",
+  "datasets_path": "./database/datasets",
+  "logs_root": "./logs",
+  "is_floodfill": true,
+  "is_blur": true,
+  "is_thresh": false,
+  "is_close": true,
+  "over_rate": 1,
+  "out_shape": "Circle"
+}

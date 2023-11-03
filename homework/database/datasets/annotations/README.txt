@@ -1,0 +1,3 @@
+用于存放Ground Truth
+标注文件采用VOC_XML格式
+标注工具使用labelimg

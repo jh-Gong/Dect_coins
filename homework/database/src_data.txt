@@ -1,0 +1,10 @@
+./database/datasets/annotations/0.xml;./database/datasets/images/0.png;
+./database/datasets/annotations/1.xml;./database/datasets/images/1.png;
+./database/datasets/annotations/2.xml;./database/datasets/images/2.png;
+./database/datasets/annotations/3.xml;./database/datasets/images/3.png;
+./database/datasets/annotations/4.xml;./database/datasets/images/4.png;
+./database/datasets/annotations/5.xml;./database/datasets/images/5.png;
+./database/datasets/annotations/6.xml;./database/datasets/images/6.png;
+./database/datasets/annotations/7.xml;./database/datasets/images/7.png;
+./database/datasets/annotations/8.xml;./database/datasets/images/8.png;
+./database/datasets/annotations/9.xml;./database/datasets/images/9.png;
